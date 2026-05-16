@@ -17,6 +17,7 @@ I'm a full-stack developer who loves building real, production-ready web apps us
 Live: https://busbooking-ten-vert.vercel.app
 
 🤖 AI Resume & Interview Platform — MERN app with GROQ AI (Llama 3 70B) for ATS scoring, mock interviews, and an AI career coach chatbot
+Live: https://ai-resume-platform-livid.vercel.app
 
 ---
 
