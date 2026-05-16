@@ -14,9 +14,11 @@ I'm a full-stack developer who loves building real, production-ready web apps us
 **What I'm Currently Working On**
 
 🚌 BusBook — A full-stack bus ticket booking platform with seat selection, Razorpay payments, e-tickets, and an admin dashboard
-Live: https://busbooking-ten-vert.vercel.app
+
+   Live: https://busbooking-ten-vert.vercel.app
 
 🤖 AI Resume & Interview Platform — MERN app with GROQ AI (Llama 3 70B) for ATS scoring, mock interviews, and an AI career coach chatbot
+
 Live: https://ai-resume-platform-livid.vercel.app
 
 ---
